@@ -1,0 +1,112 @@
+.header{
+	background-image: url(../img/bg.jpg);
+	min-height: 650px;
+}
+.main{
+	width: 100%;
+	text-align: center;
+}
+.welcome{
+	text-align: center;
+}
+.welcome .flex-container{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.welcome .flex-container .flex-item{
+	border: 1px solid #b4b3b2;
+	width: 300px;
+	margin: 25px;
+}
+.welcome .flex-container .flex-item p{
+	color: #b4b3b2;
+}
+.icon1{
+    margin: 0 auto;
+    width: 40px;
+    height: 35px;
+    background: url('../img/icons.png') 0px 4px;
+}
+.icon2{
+	margin: 0 auto;
+	width: 35px;
+    height: 35px;
+	background: url('../img/icons.png') -1px;
+}
+.icon3{
+    margin: 0 auto;
+    width: 40px;
+    height: 35px;
+    background: url('../img/icons.png') 0px -188px;
+}
+.icon4{
+    margin: 0 auto;
+    width: 35px;
+    height: 34px;
+    background: url('../img/icons.png') -1px -30px;
+}
+.icon5{
+	margin: 0 auto;
+    width: 35px;
+    height: 35px;
+    background: url('../img/icons.png') -3px -63px;
+}
+.icon6{
+    margin: 0 auto;
+    width: 35px;
+    height: 35px;
+    background: url('../img/icons.png') -1px -108px;
+}
+
+.meet_us{
+
+}
+.portfolio{
+
+}
+.price{
+
+}
+.price .flex-container{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+}
+.price .flex-container .flex-item{
+	border: 1px solid black;
+	margin: 10px;	
+}
+.flex-item ul{
+	list-style-type: none;
+	padding: 20px;
+	margin: 0;
+}
+.contact_form{
+	color: white;
+	background-image: url(../img/contact_us_empty.jpg);
+	min-height: 500px;
+}
+.contact_form h2{
+	padding-top: 25px;
+}
+.footer{
+
+}
+textarea, input{
+	background: transparent;
+	color: white;
+	padding: 15px;
+	font-size: 16px;
+	margin: 10px;
+}
+input{
+	width: 25%
+}
