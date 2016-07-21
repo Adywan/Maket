@@ -26,40 +26,29 @@
 .welcome .flex-container .flex-item p{
 	color: #b4b3b2;
 }
-.icon1{
-    margin: 0 auto;
-    width: 40px;
-    height: 35px;
-    background: url('../img/icons.png') 0px 4px;
-}
-.icon2{
+.icon{
 	margin: 0 auto;
 	width: 35px;
     height: 35px;
+}
+.icon1{
+    width: 40px;
+    background: url('../img/icons.png') 0px 4px;
+}
+.icon2{
 	background: url('../img/icons.png') -1px;
 }
 .icon3{
-    margin: 0 auto;
     width: 40px;
-    height: 35px;
     background: url('../img/icons.png') 0px -188px;
 }
 .icon4{
-    margin: 0 auto;
-    width: 35px;
-    height: 34px;
     background: url('../img/icons.png') -1px -30px;
 }
 .icon5{
-	margin: 0 auto;
-    width: 35px;
-    height: 35px;
     background: url('../img/icons.png') -3px -63px;
 }
 .icon6{
-    margin: 0 auto;
-    width: 35px;
-    height: 35px;
     background: url('../img/icons.png') -1px -108px;
 }
 
